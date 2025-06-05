@@ -25,5 +25,7 @@ IMAGE HERE
 
 Overall, I think today was an extremely productive day, I even worked a bit during the Zoom meeting! Hope tomorrow will be as productive as today. :)
 
+Edit: Tomorrow I need to change the ESP32 version to 32U. I can't find anywhere that sells the other one.
+
 **Total time spent: 4h**
 
