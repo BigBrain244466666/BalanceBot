@@ -23,7 +23,7 @@ My files may be a bit confusing, so I'm going to go through them.
 
 
 Item # |	Part Name	Quantity |	Description |	Source |	Cost
----
+--- | --- | --- | --- | ---
 1 |	Raspberry Pi Pico W |	1 |	Microcontroller |	AliExpress |	15.37
 2 |	DRV8833 |	1 |	Motor Driver |	AdaFruit |	5.95
 3 |	Mpu6040 |	1 |	Gyroscope |	AdaFruit |	12.95
