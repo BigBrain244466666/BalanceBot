@@ -66,8 +66,6 @@ Today was a productive day, I got lots of things done. I should be able to submi
 
 I learned a lot about GitHub today. I'm pretty new to GitHub, so when I uploaded my full CAD file of 27.5MB, you could say I was surprised to see the size was too big. I then spend lots of time (and lots of AI) trying to figure out how to upload a large file to GitHub. I ended up installing Git Bash and LFS to upload the file to my offline files, then learning how to push it back to my online version. It was a lot of trial and error.
 
-![Git Bash](https://github.com/BigBrain244466666/BalanceBot/blob/main/Images/Screenshot%202025-06-07%20205722.png)
-
 Other than that, I just spent most of my time downloading all the necessary files.
 
 **Total time spent: 2h**
