@@ -5,7 +5,7 @@ Description: A robot that balances on two wheels autonomously and can be control
 Created At: 2025-05-31
 ---
 #  Total Time Spent
-** 13.5 Hours **
+**13.5 Hours**
 
 # June 4th: Designed and made the Schematic!
 
