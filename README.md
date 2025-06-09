@@ -22,7 +22,7 @@ My files may be a bit confusing, so I'm going to go through them.
 **BOM**
 
 
-Item # |	Part Name |	Quantity |	Description |	Source |	Cost
+Item # |	Part Name |	Quantity |	Description |	Source |	Cost (CAD)
 --- | --- | --- | --- | --- | ---
 1 |	Raspberry Pi Pico W |	1 |	Microcontroller |	AliExpress | 15.37
 2 |	DRV8833 |	1 |	Motor Driver |	AdaFruit | 5.95
