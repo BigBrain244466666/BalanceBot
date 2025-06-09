@@ -22,12 +22,12 @@ My files may be a bit confusing, so I'm going to go through them.
 **BOM**
 
 
-Item # |	Part Name	Quantity |	Description |	Source |	Cost
---- | --- | --- | --- | ---
-1 |	Raspberry Pi Pico W |	1 |	Microcontroller |	AliExpress |	15.37
-2 |	DRV8833 |	1 |	Motor Driver |	AdaFruit |	5.95
-3 |	Mpu6040 |	1 |	Gyroscope |	AdaFruit |	12.95
-4 |	Motor and Wheels |	1 |	Kit |	Temu |	10
+Item # |	Part Name |	Quantity |	Description |	Source |	Cost
+--- | --- | --- | --- | --- | ---
+1 |	Raspberry Pi Pico W |	1 |	Microcontroller |	AliExpress | 15.37
+2 |	DRV8833 |	1 |	Motor Driver |	AdaFruit | 5.95
+3 |	Mpu6040 |	1 |	Gyroscope |	AdaFruit | 12.95
+4 |	Motor and Wheels |	1 |	Kit |	Temu | 10
 5 |	PCB |	5 |	Pack |	PCBWay | 5
 6 |	Chassis |	1 |	Bottom, 191 g |	Waterloo Public Library |	6
 7 |	Chassis |	1 |	Middle, 100 g |	Waterloo Public Library |	4
@@ -36,6 +36,6 @@ Item # |	Part Name	Quantity |	Description |	Source |	Cost
 10 |	Screws, M3 |	1 |	25 Pc |	AliExpress |	4.39
 11 | Bolts, M3 |	1 |	25 Pc | AliExpress |	2.71
 12 |	Googly Eyes |	1 |	10 Pc |	AliExpress |	3.47
-13 |	Batteries |	2 |	4 and 2 AA holder |	AliExpress |	5
+13 |	Batteries |	2 |	4 and 2 AA holder |	AliExpress | 5
 14 | Shipping | N/A |	N/A |	N/A |	20-40
 
